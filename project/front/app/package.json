@@ -17,7 +17,7 @@
     "npm": "^10.8.3",
     "react": "^18.2.0",
     "react-auth-code-input": "^3.2.1",
-    "react-cookie": "^4.1.1",
+    "react-cookie": "^8.0.1",
     "react-dom": "^18.2.0",
     "react-icons": "^4.9.0",
     "react-redux": "^7.2.9",
