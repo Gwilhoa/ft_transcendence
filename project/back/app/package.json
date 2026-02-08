@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^9.0.0",
-    "@nestjs/config": "^2.3.1",
+    "@nestjs/config": "^4.0.3",
     "@nestjs/core": "^10.4.2",
     "@nestjs/jwt": "^10.0.2",
     "@nestjs/passport": "^9.0.3",
@@ -37,7 +37,7 @@
     "dotenv": "^16.0.3",
     "minimatch": "^7.4.3",
     "node-2fa": "^2.0.3",
-    "npm": "^9.7.1",
+    "npm": "^11.6.4",
     "otplib": "^12.0.1",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.1",
@@ -45,7 +45,7 @@
     "pg-hstore": "^2.3.4",
     "qrcode": "^1.5.1",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^4.4.1",
+    "rimraf": "^6.1.1",
     "rxjs": "^7.2.0",
     "typeorm": "^0.3.12"
   },
